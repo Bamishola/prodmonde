@@ -1,4 +1,3 @@
-```markdown
 # PRODMONDE
 ### Cartographie interactive de l'évolution mondiale des grandes cultures (1961–2024)
 
@@ -83,7 +82,6 @@
 ---
 
 ## 🗂️ Structure du projet
-
 ```
 prodmonde/
 ├── index.html                          # Application principale
@@ -169,4 +167,3 @@ Produit par `data/main2.py` à partir du fichier brut FAOSTAT (`_All_Data_NOFLAG
 Projet réalisé dans le cadre du cours **MOS 9.1 – Visualisation Interactive de Données**
 École Centrale Lyon, 2025-2026
 **Encadrants :** Romain Vuillemot, Théo Jaunet, Romuald Thion
-```
